@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * local.xml
+ *
+ * Local layout modifications for our local theme
+ *
+ * @category    design
+ * @package     responsive
+ * @copyright   Copyright (c) 2015 Luxinten.
+ */
+-->
+
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <action method="addItem">
+                <type>skin_js</type>
+                <name>js/jquery.js</name>
+            </action>
+            <action method="addJs"><script>js/nonconflict.js</script></action>
+            <block type="core/text" name="google.cdn.jquery">
+                <action method="setText">
+                    <text><![CDATA[<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>]]></text>
+                </action>
+            </block>
+        </reference>
+    </default>
+	<default>
+ 		<reference name="head">
+  			<!--Remove Base Styles -->
+  			<action method="removeItem"><type>skin_css</type><name>css/styles.css</name></action>
+			  <action method="removeItem"><type>skin_css</type><name>css/widgets.css</name></action>
+			  <action method="removeItem"><type>skin_css</type><name>css/print.css</name></action> 
+			  <!-- Add theme styles -->
+			  <action method="addCss"><stylesheet>css/bootstrap.min.css</stylesheet></action>
+			  <action method="addCss"><stylesheet>css/general.css</stylesheet></action>
+ 		</reference>
+	</default>
+     <default>
+        <remove name="left.newsletter" /> <!-- if you want to remove the newsletter block which is on the left side -->
+        <!-- Mage_Newsletter -->
+        <reference name="footer">
+            <block type="newsletter/subscribe" name="newsletter" as="newsletter" template="newsletter/subscribe.phtml" before="-" />
+        </reference>
+    </default>
+</layout>
