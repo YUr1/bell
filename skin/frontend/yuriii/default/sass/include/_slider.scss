@@ -1,0 +1,40 @@
+﻿div.slider_cent{
+	 height: 375px;
+	 padding-left: 0px;
+  .carousel{
+	position: static;
+	}
+  .carousel-caption{
+	position: static;
+	padding-top: 0px; 
+    }
+   .carousel-control.left{
+   left: 0px;
+     }
+   .carousel-control.right{
+	right: 15px;
+	}
+}
+	
+div.slider_center{
+	padding-left: 0px;
+	background-image: url(../images/image_slider.png);
+	height: 370px;
+	h4{
+		color:white;
+		margin-top: 150px;
+		text-align: right;
+	}
+	span{
+		color:white;
+		float: right;
+	}
+	button{
+		background: none;
+		border-radius: 0;
+		color:white;
+		font-weight: bold;
+		float: right;
+		margin-top: 20px;
+	}
+}

@@ -1,0 +1,26 @@
+﻿div.after_block_latest{
+	background: #f4f4f4;
+	padding: 20px 0px 20px 0px;
+	div.after_latest{
+		.img_car{
+			padding: 15px 20px 15px 15px;
+		}
+	.img_car, .img_money, .img_life_ring, .img_phone{
+		margin: 13px 10px 10px 0px;
+  		background-color: white;
+	}
+	h4.free{
+		margin-top: 17px;
+	}
+	h4,h6 {
+		color:$fonts-color;
+		margin: 0px;
+	}
+	.img_money, .img_life_ring{
+		padding: 0px 0px 0px 8px;	
+	}
+	.img_phone{	
+		padding: 15px 20px 15px 25px;
+	}
+  }
+}

@@ -1,0 +1,98 @@
+.newsletter{
+		.block-title{
+		strong>span{
+			color:white;
+		}
+	}
+	p{
+		color: white;
+		text-align: left;
+		margin-top: 10px;
+	}
+		form div.block-content {
+			div.input-box {
+				line-height: 30px;
+				padding-right: 0px;
+
+				input{	
+					background-color: #595959;
+					border: none;
+					line-height: 2.4;
+					border-radius: 0;
+				}	
+			}
+			div.actions {
+				padding-left: 0px;
+			button {
+				border-radius: 0;
+				line-height: 1.7;
+				background-color: $hover-color;
+			}
+		}
+		}
+	}
+	div.footer_down{
+		margin-top: 20px;
+		li{
+			display: inline-block;
+			 padding: 0px 7px 0px 3px;
+			a{
+				color:$fonts-color;
+			}	
+		}
+	}
+	div.connect{
+		h4.connect_with{
+			color: white;
+  			margin: 25px 0px 10px 0px;
+		}
+		li{
+			display: inline-block;
+			padding: 0px 15px 0px 0px;
+		}
+	}
+
+footer{
+	background-color: #444444;
+	padding:20px 0px 20px 0px;
+	
+	div.block-title{
+		color:white;
+		a{
+			color:white;
+		}
+}
+	address{
+		color:$fonts-color;
+		text-align: left;
+	strong{
+		float: left;
+		color:white;
+	}
+	p{
+		color: white;
+		font-size: 12px;
+		padding-top: 20px;
+	}
+}	
+	div.down_foot{
+		background: #333333;
+	}
+	div.links{
+		
+		ul{
+			padding-top: 10px;
+			margin-bottom: 30px;
+		}
+		li{
+			padding: 5px 0px 5px 0px;
+		}
+		
+	a{
+		color:white;
+	}
+
+ }
+
+}
+

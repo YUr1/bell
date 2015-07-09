@@ -1,0 +1,52 @@
+﻿div.timer{
+	background-image:url(../images/timer_block_camera.png);
+	background-repeat: no-repeat;
+	div.time_right{
+		border:1px solid $form-color;
+		overflow: hidden;
+	}
+	.hot_price{
+		margin-bottom: 120px;
+		img{
+			margin: -45px 0px 0px 150px ;
+	  }
+	}
+	.stars{
+		text-align: center;
+		img{
+			margin: 12px 10px 10px 10px ;
+	  }
+	}
+	h6{
+		text-align: center;
+		margin-bottom: 0px;
+	}
+	.span2{
+		text-align: center;
+		margin-bottom: 10px;
+		span.price1{
+			color: $greyy;
+			margin-left: 3px;
+		}
+	}
+	.year{
+		margin-top: -10px;
+		img{
+			position: relative;
+			bottom: 10px;
+	}
+		span.days{
+			margin:0px 10px 0px 45px;
+	}
+		span.hour{
+			margin:0px 5px 0px 6px;
+		}
+		span.min{
+			margin:0px 5px 0px 8px;
+		}
+		span.sec{
+			margin:0px 0px 0px 18px;
+		}
+	}
+	
+}

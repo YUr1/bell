@@ -1,0 +1,78 @@
+
+div.topmenuleft{
+		
+	ul#nav > li {
+		background:white;
+		float: none;
+		border-bottom: 1px solid $fonts-color;
+		padding:10px 0px;
+		background-repeat: no-repeat;
+	}
+	li:hover {
+				ul {
+					display: block;
+					position: absolute;
+					z-index: 10;
+					right: 14px;
+				}
+			}
+
+	ul#nav > li ul li a{
+		background: white;
+		background-image: none;
+		color:$hover-color;
+	}
+	ul#nav > li ul li a:hover{
+		color:black
+	}
+
+	ul#nav>li ul li{
+	background: white;
+	background-image: none;
+	}
+
+	a{
+		color:$fonts-color;
+		font-size: 18px;
+		padding: 5px 0px 10px 50px;
+		background-repeat: no-repeat;
+
+	}
+	a:hover{
+		color:$hover-color;
+	}
+	ul#nav{
+	li.parent:nth-child(1), li.parent:nth-child(2), li.parent:nth-child(3), li.parent:nth-child(4), li.parent:nth-child(6) {
+		background-image: url(../images/topmenu_left.png);
+		background-position: 250px;
+	}
+}
+	
+	li:nth-child(1) a {
+		background-image: url(../images/laptops.png);
+		background-position: 2px;
+	}
+	
+	li:nth-child(2) a{
+		background-image: url(../images/computer.png);
+		background-position: 2px;
+	}
+	li:nth-child(3) a{
+		background-image: url(../images/audio.png);
+		background-position: 10px;
+	}
+	li:nth-child(4) a{
+		background-image: url(../images/smart_phones.png);
+		background-position: 10px;
+	}
+	li:nth-child(5) a{
+		background-image: url(../images/mobile.png);
+		background-position: 10px;
+	}
+	li:nth-child(6) a{
+		background-image: url(../images/headphones.png);
+		background-position: 2px;
+	}
+
+
+}

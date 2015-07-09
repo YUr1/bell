@@ -1,0 +1,37 @@
+﻿.best-selling, .category-products, .widget-new-products, .widget-products {
+		li{
+			display: inline-block;
+			border:1px solid $form-color;
+			padding: 0px;
+			margin:4px 5px 0px 0px;
+			width: 24%;
+		}
+		li:hover{
+			box-shadow: 0px 0px 20px 1px;
+		}
+		h3{
+			text-align: center;
+			a{
+				color:black;
+				font-size: 15px;
+			}
+		}
+		.stars{
+			text-align: center;
+			img{
+				width: inherit;
+				}
+			}
+		.price-box{
+			font-weight: bold;
+			text-align: center;
+		}
+		.actions{
+			text-align: center;
+			border-radius: 0px;
+			padding: 10px 0px 10px 0px;
+		}
+		button{
+			border-radius: 0;
+		}
+	}

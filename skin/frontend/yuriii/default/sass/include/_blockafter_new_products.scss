@@ -1,0 +1,27 @@
+﻿div.block_afternew_product{
+		background-image: url(../images/Picture_after_newproduct.png);
+		height: 160px;
+		background-repeat: no-repeat;
+		
+		.themevast{
+			text-align: center;
+  			font-weight: bold;
+  			font-size: 16px;
+  			margin-top: 30px;
+			}
+
+			.best{
+				text-align: center;
+  				font-weight: bold;
+  				font-size: 21px;
+			}
+			.button_youre{
+				text-align: center;
+				button{
+				background: none;
+				border-radius: 0px;
+				font-weight: bold;
+				margin-top: 10px;
+			}
+			}
+		}

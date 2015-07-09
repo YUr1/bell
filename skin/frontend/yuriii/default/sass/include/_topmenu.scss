@@ -1,0 +1,87 @@
+ 
+.topmenu {
+}
+div.categories{
+	padding: 10px 0px 10px 0px;
+span {
+	font-size: 18px;
+	font-weight: bold;
+	padding: 0px 0px 0px 15px;
+}
+img{
+	padding-bottom: 5px;
+}
+a{
+	padding-left: 30px;
+	color:black;
+}
+}
+
+div.topmenu_block {
+	padding: 0px;
+	li:nth-child(5) a{
+		padding: 0px 30px 0px 0px;
+		background-image: none;
+	}
+	
+	li:nth-child(1), li:nth-child(2), li:nth-child(3), li:nth-child(4), li:nth-child(6) {
+		padding: 10px 30px 10px 0px;
+		background-image: url(../images/topmenu_buttondown.png);
+		background-repeat: no-repeat;
+		
+	}
+	li:nth-child(1) {
+		background-position: 55px;
+	}
+	
+	li:nth-child(2) {
+		background-position: 110px;
+	}
+	
+	li:nth-child(3) {
+		background-position: 85px;
+	}
+
+	li:nth-child(4) {
+		background-position: 100px;
+	}
+	li:nth-child(5){
+		padding-top: 10px;
+	}
+	li:nth-child(6) {
+		background-position: 50px;
+	}
+
+	li a {
+		color: black;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	ul#nav li:hover  a{
+ 		color:$hover-color;
+ 		text-decoration: none;
+	}
+
+	ul#nav li:hover ul {
+		display: block;
+ 		position: absolute;
+ 		color:$hover-color;
+	}
+	ul#nav {
+		padding-left: 0;
+		margin: 0;
+		li ul {
+ 			display:none;
+ 			margin-left: 0;
+		}
+		li ul li {
+			background: white;
+ 			display: block;
+ 			border: 1px solid #FCFCFC;
+		}
+		li ul li a {
+ 			color:#337ab7;
+ 			background-image: none;
+		}
+	}
+}

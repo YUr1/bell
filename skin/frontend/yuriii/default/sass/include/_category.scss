@@ -1,0 +1,36 @@
+div.container-fluid {
+	p.category-image img {
+		max-width: 100%;
+		width: 100%;
+	}
+	ul.products-grid {
+		border: none;
+		overflow: hidden;
+		>li {
+			img {
+				width: 100%;
+			}
+			.category-add-to-links { clear: both;}
+		}
+	}
+	ul.catblocks {
+		li {
+			float: left;
+			img {
+				display: block;
+				width: 100%;
+				max-width: 100%;
+			}
+		}
+	}
+	div.category-image img {
+		max-width: 100%;
+		width: 100%;
+	}
+}
+div.toolbar {
+	div.pager {	margin: 0;}
+	.amount, .limited {
+		padding: 0;
+	}
+}

@@ -1,0 +1,1090 @@
+/* line 1, ../sass/include/_main.scss */
+div.top-line {
+  width: 100%;
+}
+
+/* line 5, ../sass/include/_main.scss */
+body select.form-control {
+  width: 100%;
+}
+/* line 8, ../sass/include/_main.scss */
+body ul {
+  padding: 0;
+}
+/* line 10, ../sass/include/_main.scss */
+body ul li {
+  list-style: none;
+}
+/* line 12, ../sass/include/_main.scss */
+body .slideshow-container .slideshow > li img {
+  max-width: 100%;
+  width: 100%;
+  z-index: 1;
+}
+/* line 17, ../sass/include/_main.scss */
+body .promos > li img {
+  max-width: 100%;
+  width: 100%;
+}
+/* line 21, ../sass/include/_main.scss */
+body .container-fluid {
+  max-width: 1200px;
+}
+/* line 23, ../sass/include/_main.scss */
+body .container-fluid ol.opc {
+  list-style: none;
+}
+/* line 25, ../sass/include/_main.scss */
+body .container-fluid ol.opc li {
+  list-style: none;
+}
+/* line 29, ../sass/include/_main.scss */
+body .container-fluid h2.steps {
+  padding: 0;
+  margin: 0;
+}
+/* line 35, ../sass/include/_main.scss */
+body .container-fluid .blockquote-reverse {
+  border-right: 0;
+}
+/* line 39, ../sass/include/_main.scss */
+body .container-fluid ul.links li {
+  float: left;
+  display: none;
+}
+/* line 43, ../sass/include/_main.scss */
+body .container-fluid ul.links li:nth-child(1), body .container-fluid ul.links li:nth-child(4), body .container-fluid ul.links li:nth-child(5) {
+  display: block;
+}
+/* line 48, ../sass/include/_main.scss */
+body .container-fluid ul#nav > li {
+  float: left;
+}
+/* line 50, ../sass/include/_main.scss */
+body .container-fluid ul#nav > li ul {
+  padding: 0;
+  display: none;
+}
+/* line 56, ../sass/include/_main.scss */
+body .container-fluid ul#nav > li:hover ul {
+  display: block;
+  position: absolute;
+  z-index: 10;
+}
+/* line 63, ../sass/include/_main.scss */
+body .container-fluid ol.opc {
+  list-style: none;
+  padding: 0;
+}
+/* line 66, ../sass/include/_main.scss */
+body .container-fluid ol.opc li {
+  list-style: none;
+}
+/* line 70, ../sass/include/_main.scss */
+body .container-fluid .cart-quantity {
+  padding: 4px;
+}
+/* line 73, ../sass/include/_main.scss */
+body .container-fluid .language-control {
+  width: 43%;
+}
+/* line 76, ../sass/include/_main.scss */
+body .container-fluid .content {
+  padding-right: 0px;
+}
+/* line 79, ../sass/include/_main.scss */
+body .container-fluid h2.steps {
+  padding: 0;
+  margin: 0;
+}
+/* line 85, ../sass/include/_main.scss */
+body .container-fluid ul.new-product li:nth-child(3) {
+  margin-bottom: 20px;
+}
+/* line 90, ../sass/include/_main.scss */
+body .container-fluid footer div.row div:nth-child(3) {
+  margin-bottom: 20px;
+}
+
+/* line 2, ../sass/include/_category.scss */
+div.container-fluid p.category-image img {
+  max-width: 100%;
+  width: 100%;
+}
+/* line 6, ../sass/include/_category.scss */
+div.container-fluid ul.products-grid {
+  border: none;
+  overflow: hidden;
+}
+/* line 10, ../sass/include/_category.scss */
+div.container-fluid ul.products-grid > li img {
+  width: 100%;
+}
+/* line 13, ../sass/include/_category.scss */
+div.container-fluid ul.products-grid > li .category-add-to-links {
+  clear: both;
+}
+/* line 17, ../sass/include/_category.scss */
+div.container-fluid ul.catblocks li {
+  float: left;
+}
+/* line 19, ../sass/include/_category.scss */
+div.container-fluid ul.catblocks li img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+/* line 26, ../sass/include/_category.scss */
+div.container-fluid div.category-image img {
+  max-width: 100%;
+  width: 100%;
+}
+
+/* line 32, ../sass/include/_category.scss */
+div.toolbar div.pager {
+  margin: 0;
+}
+/* line 33, ../sass/include/_category.scss */
+div.toolbar .amount, div.toolbar .limited {
+  padding: 0;
+}
+
+/* line 3, ../sass/include/_header.scss */
+body div.topmenu-block {
+  margin-top: 20px;
+}
+/* line 6, ../sass/include/_header.scss */
+body div.top-line {
+  background: #ececec;
+  padding: 10px 0px 0px 0px;
+}
+/* line 10, ../sass/include/_header.scss */
+body div.top-line span {
+  float: left;
+  color: #a6a6a6;
+}
+/* line 14, ../sass/include/_header.scss */
+body div.top-line li {
+  float: right;
+  padding: 0 0 0 10px;
+  list-style-type: none;
+}
+/* line 19, ../sass/include/_header.scss */
+body div.top-line li.compare {
+  padding: 0 10px 0 0;
+}
+/* line 23, ../sass/include/_header.scss */
+body div.toplinksleft ul {
+  float: right;
+}
+/* line 26, ../sass/include/_header.scss */
+body div.toplinksleft ul li:nth-child(1) a {
+  background-image: url(../images/wishlist_head1.png);
+  background-repeat: no-repeat;
+  padding: 0px 25px 0px 0px;
+}
+/* line 31, ../sass/include/_header.scss */
+body div.toplinksleft ul li:nth-child(2) a {
+  background-image: url(../images/my_acc_head.png);
+  background-repeat: no-repeat;
+  padding: 0px 25px 0px 0px;
+}
+/* line 37, ../sass/include/_header.scss */
+body .logo {
+  margin-bottom: 15px;
+}
+/* line 43, ../sass/include/_header.scss */
+body div.logo_search input[type="text"] {
+  border-color: #c0c0c0;
+  color: #a0a2ab;
+  float: left;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 18px 12px;
+  font-size: 15px;
+  background-image: url(../images/search_head.png);
+  background-repeat: no-repeat;
+  background-position: 365px;
+}
+/* line 55, ../sass/include/_header.scss */
+body div.logo_search div.my_cart {
+  padding: 0px;
+}
+/* line 58, ../sass/include/_header.scss */
+body div.logo_search div.my_cart ul li a {
+  color: #a0a2ab;
+  background-image: url(./images/my_cart_head.png);
+  background-repeat: no-repeat;
+  background-position: 68px;
+  padding: 11px 40px 8px 0px;
+  border-bottom: solid 1px #c0c0c0;
+}
+/* line 68, ../sass/include/_header.scss */
+body div.logo_search div.hotline {
+  color: #a0a2ab;
+  margin-top: 10px;
+  font-size: 12px;
+}
+/* line 73, ../sass/include/_header.scss */
+body div.logo_search div.right-search-links {
+  float: right;
+  margin-top: 10px;
+}
+/* line 79, ../sass/include/_header.scss */
+body div.logo_search div.top_logo {
+  padding: 43px 0px;
+  border-bottom: 1px solid #c0c0c0;
+}
+
+/* line 4, ../sass/include/_topmenu.scss */
+div.categories {
+  padding: 10px 0px 10px 0px;
+}
+/* line 6, ../sass/include/_topmenu.scss */
+div.categories span {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 0px 0px 0px 15px;
+}
+/* line 11, ../sass/include/_topmenu.scss */
+div.categories img {
+  padding-bottom: 5px;
+}
+/* line 14, ../sass/include/_topmenu.scss */
+div.categories a {
+  padding-left: 30px;
+  color: black;
+}
+
+/* line 20, ../sass/include/_topmenu.scss */
+div.topmenu_block {
+  padding: 0px;
+}
+/* line 22, ../sass/include/_topmenu.scss */
+div.topmenu_block li:nth-child(5) a {
+  padding: 0px 30px 0px 0px;
+  background-image: none;
+}
+/* line 27, ../sass/include/_topmenu.scss */
+div.topmenu_block li:nth-child(1), div.topmenu_block li:nth-child(2), div.topmenu_block li:nth-child(3), div.topmenu_block li:nth-child(4), div.topmenu_block li:nth-child(6) {
+  padding: 10px 30px 10px 0px;
+  background-image: url(../images/topmenu_buttondown.png);
+  background-repeat: no-repeat;
+}
+/* line 33, ../sass/include/_topmenu.scss */
+div.topmenu_block li:nth-child(1) {
+  background-position: 55px;
+}
+/* line 37, ../sass/include/_topmenu.scss */
+div.topmenu_block li:nth-child(2) {
+  background-position: 110px;
+}
+/* line 41, ../sass/include/_topmenu.scss */
+div.topmenu_block li:nth-child(3) {
+  background-position: 85px;
+}
+/* line 45, ../sass/include/_topmenu.scss */
+div.topmenu_block li:nth-child(4) {
+  background-position: 100px;
+}
+/* line 48, ../sass/include/_topmenu.scss */
+div.topmenu_block li:nth-child(5) {
+  padding-top: 10px;
+}
+/* line 51, ../sass/include/_topmenu.scss */
+div.topmenu_block li:nth-child(6) {
+  background-position: 50px;
+}
+/* line 55, ../sass/include/_topmenu.scss */
+div.topmenu_block li a {
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+}
+/* line 60, ../sass/include/_topmenu.scss */
+div.topmenu_block ul#nav li:hover a {
+  color: #ee6868;
+  text-decoration: none;
+}
+/* line 65, ../sass/include/_topmenu.scss */
+div.topmenu_block ul#nav li:hover ul {
+  display: block;
+  position: absolute;
+  color: #ee6868;
+}
+/* line 70, ../sass/include/_topmenu.scss */
+div.topmenu_block ul#nav {
+  padding-left: 0;
+  margin: 0;
+}
+/* line 73, ../sass/include/_topmenu.scss */
+div.topmenu_block ul#nav li ul {
+  display: none;
+  margin-left: 0;
+}
+/* line 77, ../sass/include/_topmenu.scss */
+div.topmenu_block ul#nav li ul li {
+  background: white;
+  display: block;
+  border: 1px solid #FCFCFC;
+}
+/* line 82, ../sass/include/_topmenu.scss */
+div.topmenu_block ul#nav li ul li a {
+  color: #337ab7;
+  background-image: none;
+}
+
+/* line 3, ../sass/include/_footer.scss */
+.newsletter .block-title strong > span {
+  color: white;
+}
+/* line 7, ../sass/include/_footer.scss */
+.newsletter p {
+  color: white;
+  text-align: left;
+  margin-top: 10px;
+}
+/* line 13, ../sass/include/_footer.scss */
+.newsletter form div.block-content div.input-box {
+  line-height: 30px;
+  padding-right: 0px;
+}
+/* line 17, ../sass/include/_footer.scss */
+.newsletter form div.block-content div.input-box input {
+  background-color: #595959;
+  border: none;
+  line-height: 2.4;
+  border-radius: 0;
+}
+/* line 24, ../sass/include/_footer.scss */
+.newsletter form div.block-content div.actions {
+  padding-left: 0px;
+}
+/* line 26, ../sass/include/_footer.scss */
+.newsletter form div.block-content div.actions button {
+  border-radius: 0;
+  line-height: 1.7;
+  background-color: #ee6868;
+}
+
+/* line 34, ../sass/include/_footer.scss */
+div.footer_down {
+  margin-top: 20px;
+}
+/* line 36, ../sass/include/_footer.scss */
+div.footer_down li {
+  display: inline-block;
+  padding: 0px 7px 0px 3px;
+}
+/* line 39, ../sass/include/_footer.scss */
+div.footer_down li a {
+  color: #a0a2ab;
+}
+
+/* line 45, ../sass/include/_footer.scss */
+div.connect h4.connect_with {
+  color: white;
+  margin: 25px 0px 10px 0px;
+}
+/* line 49, ../sass/include/_footer.scss */
+div.connect li {
+  display: inline-block;
+  padding: 0px 15px 0px 0px;
+}
+
+/* line 55, ../sass/include/_footer.scss */
+footer {
+  background-color: #444444;
+  padding: 20px 0px 20px 0px;
+}
+/* line 59, ../sass/include/_footer.scss */
+footer div.block-title {
+  color: white;
+}
+/* line 61, ../sass/include/_footer.scss */
+footer div.block-title a {
+  color: white;
+}
+/* line 65, ../sass/include/_footer.scss */
+footer address {
+  color: #a0a2ab;
+  text-align: left;
+}
+/* line 68, ../sass/include/_footer.scss */
+footer address strong {
+  float: left;
+  color: white;
+}
+/* line 72, ../sass/include/_footer.scss */
+footer address p {
+  color: white;
+  font-size: 12px;
+  padding-top: 20px;
+}
+/* line 78, ../sass/include/_footer.scss */
+footer div.down_foot {
+  background: #333333;
+}
+/* line 83, ../sass/include/_footer.scss */
+footer div.links ul {
+  padding-top: 10px;
+  margin-bottom: 30px;
+}
+/* line 87, ../sass/include/_footer.scss */
+footer div.links li {
+  padding: 5px 0px 5px 0px;
+}
+/* line 91, ../sass/include/_footer.scss */
+footer div.links a {
+  color: white;
+}
+
+/* line 4, ../sass/include/_topmenuleft.scss */
+div.topmenuleft ul#nav > li {
+  background: white;
+  float: none;
+  border-bottom: 1px solid #a0a2ab;
+  padding: 10px 0px;
+  background-repeat: no-repeat;
+}
+/* line 12, ../sass/include/_topmenuleft.scss */
+div.topmenuleft li:hover ul {
+  display: block;
+  position: absolute;
+  z-index: 10;
+  right: 14px;
+}
+/* line 20, ../sass/include/_topmenuleft.scss */
+div.topmenuleft ul#nav > li ul li a {
+  background: white;
+  background-image: none;
+  color: #ee6868;
+}
+/* line 25, ../sass/include/_topmenuleft.scss */
+div.topmenuleft ul#nav > li ul li a:hover {
+  color: black;
+}
+/* line 29, ../sass/include/_topmenuleft.scss */
+div.topmenuleft ul#nav > li ul li {
+  background: white;
+  background-image: none;
+}
+/* line 34, ../sass/include/_topmenuleft.scss */
+div.topmenuleft a {
+  color: #a0a2ab;
+  font-size: 18px;
+  padding: 5px 0px 10px 50px;
+  background-repeat: no-repeat;
+}
+/* line 41, ../sass/include/_topmenuleft.scss */
+div.topmenuleft a:hover {
+  color: #ee6868;
+}
+/* line 45, ../sass/include/_topmenuleft.scss */
+div.topmenuleft ul#nav li.parent:nth-child(1), div.topmenuleft ul#nav li.parent:nth-child(2), div.topmenuleft ul#nav li.parent:nth-child(3), div.topmenuleft ul#nav li.parent:nth-child(4), div.topmenuleft ul#nav li.parent:nth-child(6) {
+  background-image: url(../images/topmenu_left.png);
+  background-position: 250px;
+}
+/* line 51, ../sass/include/_topmenuleft.scss */
+div.topmenuleft li:nth-child(1) a {
+  background-image: url(../images/laptops.png);
+  background-position: 2px;
+}
+/* line 56, ../sass/include/_topmenuleft.scss */
+div.topmenuleft li:nth-child(2) a {
+  background-image: url(../images/computer.png);
+  background-position: 2px;
+}
+/* line 60, ../sass/include/_topmenuleft.scss */
+div.topmenuleft li:nth-child(3) a {
+  background-image: url(../images/audio.png);
+  background-position: 10px;
+}
+/* line 64, ../sass/include/_topmenuleft.scss */
+div.topmenuleft li:nth-child(4) a {
+  background-image: url(../images/smart_phones.png);
+  background-position: 10px;
+}
+/* line 68, ../sass/include/_topmenuleft.scss */
+div.topmenuleft li:nth-child(5) a {
+  background-image: url(../images/mobile.png);
+  background-position: 10px;
+}
+/* line 72, ../sass/include/_topmenuleft.scss */
+div.topmenuleft li:nth-child(6) a {
+  background-image: url(../images/headphones.png);
+  background-position: 2px;
+}
+
+/* line 1, ../sass/include/_slider.scss */
+div.slider_cent {
+  height: 375px;
+  padding-left: 0px;
+}
+/* line 4, ../sass/include/_slider.scss */
+div.slider_cent .carousel {
+  position: static;
+}
+/* line 7, ../sass/include/_slider.scss */
+div.slider_cent .carousel-caption {
+  position: static;
+  padding-top: 0px;
+}
+/* line 11, ../sass/include/_slider.scss */
+div.slider_cent .carousel-control.left {
+  left: 0px;
+}
+/* line 14, ../sass/include/_slider.scss */
+div.slider_cent .carousel-control.right {
+  right: 15px;
+}
+
+/* line 19, ../sass/include/_slider.scss */
+div.slider_center {
+  padding-left: 0px;
+  background-image: url(../images/image_slider.png);
+  height: 370px;
+}
+/* line 23, ../sass/include/_slider.scss */
+div.slider_center h4 {
+  color: white;
+  margin-top: 150px;
+  text-align: right;
+}
+/* line 28, ../sass/include/_slider.scss */
+div.slider_center span {
+  color: white;
+  float: right;
+}
+/* line 32, ../sass/include/_slider.scss */
+div.slider_center button {
+  background: none;
+  border-radius: 0;
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-top: 20px;
+}
+
+/* line 1, ../sass/include/_timer.scss */
+div.timer {
+  background-image: url(../images/timer_block_camera.png);
+  background-repeat: no-repeat;
+}
+/* line 4, ../sass/include/_timer.scss */
+div.timer div.time_right {
+  border: 1px solid #c0c0c0;
+  overflow: hidden;
+}
+/* line 8, ../sass/include/_timer.scss */
+div.timer .hot_price {
+  margin-bottom: 120px;
+}
+/* line 10, ../sass/include/_timer.scss */
+div.timer .hot_price img {
+  margin: -45px 0px 0px 150px;
+}
+/* line 14, ../sass/include/_timer.scss */
+div.timer .stars {
+  text-align: center;
+}
+/* line 16, ../sass/include/_timer.scss */
+div.timer .stars img {
+  margin: 12px 10px 10px 10px;
+}
+/* line 20, ../sass/include/_timer.scss */
+div.timer h6 {
+  text-align: center;
+  margin-bottom: 0px;
+}
+/* line 24, ../sass/include/_timer.scss */
+div.timer .span2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+/* line 27, ../sass/include/_timer.scss */
+div.timer .span2 span.price1 {
+  color: #a6a6a6;
+  margin-left: 3px;
+}
+/* line 32, ../sass/include/_timer.scss */
+div.timer .year {
+  margin-top: -10px;
+}
+/* line 34, ../sass/include/_timer.scss */
+div.timer .year img {
+  position: relative;
+  bottom: 10px;
+}
+/* line 38, ../sass/include/_timer.scss */
+div.timer .year span.days {
+  margin: 0px 10px 0px 45px;
+}
+/* line 41, ../sass/include/_timer.scss */
+div.timer .year span.hour {
+  margin: 0px 5px 0px 6px;
+}
+/* line 44, ../sass/include/_timer.scss */
+div.timer .year span.min {
+  margin: 0px 5px 0px 8px;
+}
+/* line 47, ../sass/include/_timer.scss */
+div.timer .year span.sec {
+  margin: 0px 0px 0px 18px;
+}
+
+/* line 1, ../sass/include/_view_product.scss */
+.view_product {
+  padding-right: 0px;
+}
+/* line 4, ../sass/include/_view_product.scss */
+.view_product div.Our_prod {
+  margin: 50px 0px;
+}
+/* line 8, ../sass/include/_view_product.scss */
+.view_product div.Our_prod h3.our {
+  font-weight: bold;
+}
+/* line 11, ../sass/include/_view_product.scss */
+.view_product div.Our_prod .carousel-control {
+  width: 0%;
+  right: 4%;
+  top: -35px;
+}
+/* line 16, ../sass/include/_view_product.scss */
+.view_product div.Our_prod .left {
+  left: 92%;
+}
+/* line 21, ../sass/include/_view_product.scss */
+.view_product div.Our_prod .widget-products .stars {
+  text-align: center;
+}
+/* line 23, ../sass/include/_view_product.scss */
+.view_product div.Our_prod .widget-products .stars img {
+  width: inherit;
+}
+/* line 29, ../sass/include/_view_product.scss */
+.view_product div.tablet {
+  margin: 70px 0px 60px 0px;
+  padding: 0px 30px 0px 0px;
+}
+/* line 35, ../sass/include/_view_product.scss */
+.view_product div.tablet .tablet_hichieg img {
+  width: 100%;
+}
+
+/* line 2, ../sass/include/_featured_product.scss */
+.fetured_prod {
+  padding-right: 0px;
+}
+/* line 5, ../sass/include/_featured_product.scss */
+.fetured_prod h3.feature {
+  margin: 50px 0px -50px 0px;
+  font-weight: bold;
+}
+/* line 10, ../sass/include/_featured_product.scss */
+.fetured_prod div.Our_prod {
+  margin: 50px 0px;
+  padding-left: 0px;
+}
+/* line 15, ../sass/include/_featured_product.scss */
+.fetured_prod div.Our_prod .carousel-control {
+  width: 0%;
+  right: 33px;
+  top: -35px;
+}
+/* line 20, ../sass/include/_featured_product.scss */
+.fetured_prod div.Our_prod .left {
+  left: 93%;
+}
+/* line 23, ../sass/include/_featured_product.scss */
+.fetured_prod div.Our_prod .carousel-inner {
+  padding: 0px 9px;
+}
+/* line 27, ../sass/include/_featured_product.scss */
+.fetured_prod div.Our_prod div.category-products li {
+  margin: 4px 5px 0px 2px;
+}
+/* line 30, ../sass/include/_featured_product.scss */
+.fetured_prod div.Our_prod div.category-products .stars {
+  text-align: center;
+}
+/* line 32, ../sass/include/_featured_product.scss */
+.fetured_prod div.Our_prod div.category-products .stars img {
+  width: inherit;
+}
+
+/* line 40, ../sass/include/_featured_product.scss */
+div.tablet {
+  margin: 59px 0px 0px 0px;
+  padding: 0px;
+}
+/* line 46, ../sass/include/_featured_product.scss */
+div.tablet .tablet_hichieg img {
+  width: 92%;
+}
+
+/* line 5, ../sass/include/_advertising.scss */
+div.blocks_after_view div.check {
+  background-image: url(../images/check_it_out.png);
+  background-repeat: no-repeat;
+  height: 220px;
+  margin: 0px 7px;
+  width: 32%;
+}
+/* line 11, ../sass/include/_advertising.scss */
+div.blocks_after_view div.check .button1 {
+  text-align: center;
+  margin: 135px 100px 10px 0px;
+}
+/* line 14, ../sass/include/_advertising.scss */
+div.blocks_after_view div.check .button1 button {
+  background: none;
+  border-radius: 0px;
+  color: white;
+}
+/* line 21, ../sass/include/_advertising.scss */
+div.blocks_after_view div.hixchieg_1 {
+  background-image: url(../images/check_it_out2.png);
+  background-repeat: no-repeat;
+  height: 220px;
+  margin: 0px 7px;
+  width: 32%;
+}
+/* line 27, ../sass/include/_advertising.scss */
+div.blocks_after_view div.hixchieg_1 .button2 {
+  text-align: center;
+  margin: 134px 225px 0px -6px;
+}
+/* line 30, ../sass/include/_advertising.scss */
+div.blocks_after_view div.hixchieg_1 .button2 button {
+  color: #ee6868;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: none;
+  background-color: #E8E8EA;
+  font-size: 23px;
+  padding: 14px;
+  letter-spacing: -1px;
+  padding-bottom: 2px;
+}
+/* line 43, ../sass/include/_advertising.scss */
+div.blocks_after_view div.by_theme {
+  background-image: url(../images/check_it_out3.png);
+  background-repeat: no-repeat;
+  height: 220px;
+  margin: 0px 7px;
+  width: 32%;
+}
+/* line 49, ../sass/include/_advertising.scss */
+div.blocks_after_view div.by_theme .button3 {
+  text-align: center;
+  margin: 135px 0px 0px 0px;
+}
+/* line 52, ../sass/include/_advertising.scss */
+div.blocks_after_view div.by_theme .button3 button {
+  background: none;
+  border-radius: 0px;
+  color: white;
+}
+
+/* line 4, ../sass/include/_brand&cliens.scss */
+div.Brand div.brand_img img {
+  margin: 0px 1px 5px 3px;
+}
+/* line 8, ../sass/include/_brand&cliens.scss */
+div.Brand h3.brand_h {
+  font-weight: bold;
+}
+/* line 11, ../sass/include/_brand&cliens.scss */
+div.Brand .carousel-control {
+  width: 0%;
+  right: 4%;
+  top: -35px;
+}
+/* line 16, ../sass/include/_brand&cliens.scss */
+div.Brand .left {
+  left: 95%;
+}
+/* line 19, ../sass/include/_brand&cliens.scss */
+div.Brand .right {
+  right: 30px;
+}
+
+/* line 1, ../sass/include/_new_products.scss */
+.New {
+  padding: 0px;
+}
+
+/* line 6, ../sass/include/_new_products.scss */
+div.new_product h3.New {
+  font-weight: bold;
+  margin: 50px 0px -40px 10px;
+}
+/* line 10, ../sass/include/_new_products.scss */
+div.new_product div.New_prod {
+  margin: 50px 0px 40px 0px;
+  padding-left: 0px;
+}
+/* line 14, ../sass/include/_new_products.scss */
+div.new_product div.New_prod .carousel-control {
+  width: 0%;
+  right: 4%;
+  top: -35px;
+}
+/* line 19, ../sass/include/_new_products.scss */
+div.new_product div.New_prod .left {
+  left: 92%;
+}
+
+/* line 24, ../sass/include/_new_products.scss */
+.thumbnail {
+  border: none;
+}
+
+/* line 27, ../sass/include/_new_products.scss */
+.new_picture_left {
+  margin: 57px 0px 0px 0px;
+  padding: 0 10px 0 10px;
+}
+/* line 30, ../sass/include/_new_products.scss */
+.new_picture_left img {
+  width: 100%;
+}
+
+/* line 1, ../sass/include/_blockafter_new_products.scss */
+div.block_afternew_product {
+  background-image: url(../images/Picture_after_newproduct.png);
+  height: 160px;
+  background-repeat: no-repeat;
+}
+/* line 6, ../sass/include/_blockafter_new_products.scss */
+div.block_afternew_product .themevast {
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 30px;
+}
+/* line 13, ../sass/include/_blockafter_new_products.scss */
+div.block_afternew_product .best {
+  text-align: center;
+  font-weight: bold;
+  font-size: 21px;
+}
+/* line 18, ../sass/include/_blockafter_new_products.scss */
+div.block_afternew_product .button_youre {
+  text-align: center;
+}
+/* line 20, ../sass/include/_blockafter_new_products.scss */
+div.block_afternew_product .button_youre button {
+  background: none;
+  border-radius: 0px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* line 1, ../sass/include/_bestseller.scss */
+div.Bestseling {
+  padding-left: 0px;
+}
+
+/* line 6, ../sass/include/_bestseller.scss */
+div.best h3.best_selling {
+  font-weight: bold;
+  margin: 50px 0px -40px 0px;
+}
+/* line 11, ../sass/include/_bestseller.scss */
+div.best div.best_sell {
+  margin: 47px 0px;
+  padding-left: 0px;
+}
+/* line 15, ../sass/include/_bestseller.scss */
+div.best div.best_sell .carousel-control {
+  width: 0%;
+  right: 5%;
+  top: -35px;
+}
+/* line 20, ../sass/include/_bestseller.scss */
+div.best div.best_sell .left {
+  left: 91%;
+}
+
+/* line 31, ../sass/include/_bestseller.scss */
+.new_picture_left {
+  margin: 50px 0px 0px 0px;
+  padding: 0 10px 0 10px;
+}
+/* line 34, ../sass/include/_bestseller.scss */
+.new_picture_left img {
+  width: 100%;
+}
+
+/* line 39, ../sass/include/_bestseller.scss */
+div.tablet {
+  margin: 59px 0px 0px 0px;
+  padding: 0px;
+}
+/* line 45, ../sass/include/_bestseller.scss */
+div.tablet .tablet_hichieg img {
+  width: 92%;
+}
+
+/*Block1*/
+/* line 2, ../sass/include/_latest_blog.scss */
+h3.latest {
+  font-weight: bold;
+  padding-left: 15px;
+}
+
+/* line 6, ../sass/include/_latest_blog.scss */
+div.img_back1 {
+  background-image: url(../images/latest_blog_backgroind1.png);
+}
+
+/* line 9, ../sass/include/_latest_blog.scss */
+div.img_back1, div.img_back2, div.img_back3, div.img_back4 {
+  background-repeat: no-repeat;
+  height: 163px;
+  padding: 0px;
+}
+/* line 14, ../sass/include/_latest_blog.scss */
+div.img_back1 div.img_oct, div.img_back2 div.img_oct, div.img_back3 div.img_oct, div.img_back4 div.img_oct {
+  background-image: url(../images/Latest_oct1.png);
+  background-repeat: no-repeat;
+}
+/* line 19, ../sass/include/_latest_blog.scss */
+div.img_back1 h6.first, div.img_back2 h6.first, div.img_back3 h6.first, div.img_back4 h6.first {
+  color: white;
+  margin: 10px 0px -8px -5px;
+}
+/* line 23, ../sass/include/_latest_blog.scss */
+div.img_back1 img, div.img_back2 img, div.img_back3 img, div.img_back4 img {
+  margin: 0px 0px 0px -6px;
+}
+/* line 26, ../sass/include/_latest_blog.scss */
+div.img_back1 h6.oct, div.img_back2 h6.oct, div.img_back3 h6.oct, div.img_back4 h6.oct {
+  color: white;
+  margin: -4px 0px 13px -9px;
+}
+
+/* line 32, ../sass/include/_latest_blog.scss */
+div.subtitle {
+  padding: 0px;
+}
+/* line 35, ../sass/include/_latest_blog.scss */
+div.subtitle h5.dummy, div.subtitle h6.comments, div.subtitle h6.themes, div.subtitle h6.contary {
+  color: #a0a2ab;
+  font-weight: bold;
+}
+
+/*End*/
+/*Block2*/
+/* line 42, ../sass/include/_latest_blog.scss */
+div.img_back2 {
+  background-image: url(../images/latest_blog_backgroind2.png);
+}
+
+/*End*/
+/*Block3*/
+/* line 48, ../sass/include/_latest_blog.scss */
+div.img_back3 {
+  background-image: url(../images/latest_blog_backgroind3.png);
+}
+
+/*End*/
+/*Block4*/
+/* line 53, ../sass/include/_latest_blog.scss */
+div.img_back4 {
+  background-image: url(../images/latest_blog_backgroind4.png);
+}
+
+/* line 58, ../sass/include/_latest_blog.scss */
+div.latest .carousel-control {
+  width: 0%;
+  top: -35px;
+}
+/* line 62, ../sass/include/_latest_blog.scss */
+div.latest .left {
+  left: 94%;
+}
+/* line 65, ../sass/include/_latest_blog.scss */
+div.latest .right {
+  right: 3%;
+}
+
+/* line 1, ../sass/include/_afer_latest_blog.scss */
+div.after_block_latest {
+  background: #f4f4f4;
+  padding: 20px 0px 20px 0px;
+}
+/* line 5, ../sass/include/_afer_latest_blog.scss */
+div.after_block_latest div.after_latest .img_car {
+  padding: 15px 20px 15px 15px;
+}
+/* line 8, ../sass/include/_afer_latest_blog.scss */
+div.after_block_latest div.after_latest .img_car, div.after_block_latest div.after_latest .img_money, div.after_block_latest div.after_latest .img_life_ring, div.after_block_latest div.after_latest .img_phone {
+  margin: 13px 10px 10px 0px;
+  background-color: white;
+}
+/* line 12, ../sass/include/_afer_latest_blog.scss */
+div.after_block_latest div.after_latest h4.free {
+  margin-top: 17px;
+}
+/* line 15, ../sass/include/_afer_latest_blog.scss */
+div.after_block_latest div.after_latest h4, div.after_block_latest div.after_latest h6 {
+  color: #a0a2ab;
+  margin: 0px;
+}
+/* line 19, ../sass/include/_afer_latest_blog.scss */
+div.after_block_latest div.after_latest .img_money, div.after_block_latest div.after_latest .img_life_ring {
+  padding: 0px 0px 0px 8px;
+}
+/* line 22, ../sass/include/_afer_latest_blog.scss */
+div.after_block_latest div.after_latest .img_phone {
+  padding: 15px 20px 15px 25px;
+}
+
+/* line 2, ../sass/include/_products.scss */
+.best-selling li, .category-products li, .widget-new-products li, .widget-products li {
+  display: inline-block;
+  border: 1px solid #c0c0c0;
+  padding: 0px;
+  margin: 4px 5px 0px 0px;
+  width: 24%;
+}
+/* line 9, ../sass/include/_products.scss */
+.best-selling li:hover, .category-products li:hover, .widget-new-products li:hover, .widget-products li:hover {
+  box-shadow: 0px 0px 20px 1px;
+}
+/* line 12, ../sass/include/_products.scss */
+.best-selling h3, .category-products h3, .widget-new-products h3, .widget-products h3 {
+  text-align: center;
+}
+/* line 14, ../sass/include/_products.scss */
+.best-selling h3 a, .category-products h3 a, .widget-new-products h3 a, .widget-products h3 a {
+  color: black;
+  font-size: 15px;
+}
+/* line 19, ../sass/include/_products.scss */
+.best-selling .stars, .category-products .stars, .widget-new-products .stars, .widget-products .stars {
+  text-align: center;
+}
+/* line 21, ../sass/include/_products.scss */
+.best-selling .stars img, .category-products .stars img, .widget-new-products .stars img, .widget-products .stars img {
+  width: inherit;
+}
+/* line 25, ../sass/include/_products.scss */
+.best-selling .price-box, .category-products .price-box, .widget-new-products .price-box, .widget-products .price-box {
+  font-weight: bold;
+  text-align: center;
+}
+/* line 29, ../sass/include/_products.scss */
+.best-selling .actions, .category-products .actions, .widget-new-products .actions, .widget-products .actions {
+  text-align: center;
+  border-radius: 0px;
+  padding: 10px 0px 10px 0px;
+}
+/* line 34, ../sass/include/_products.scss */
+.best-selling button, .category-products button, .widget-new-products button, .widget-products button {
+  border-radius: 0;
+}

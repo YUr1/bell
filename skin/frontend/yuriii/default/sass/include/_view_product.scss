@@ -1,0 +1,40 @@
+.view_product{
+padding-right: 0px;
+
+div.Our_prod{
+
+	margin:50px 0px;
+	
+	h3.our{
+		font-weight: bold;
+	}
+	.carousel-control{
+		width: 0%;
+		right: 4%;
+		top: -35px;
+	}
+	.left{
+		left: 92%;
+	}
+
+	.widget-products{
+		.stars{
+			text-align: center;
+			img{
+				width: inherit;
+			}
+		}
+	}
+}
+div.tablet{
+	margin:70px 0px 60px 0px;
+	padding: 0px 30px 0px 0px;
+
+	.tablet_hichieg{
+		
+		img{
+			width: 100%;
+		}	
+	}
+}
+}

@@ -1,0 +1,59 @@
+﻿	
+	div.blocks_after_view{
+		
+
+	div.check{
+		background-image: url(../images/check_it_out.png);
+		background-repeat: no-repeat;
+		height: 220px;
+		margin:0px 7px;
+		width: 32%;
+		.button1{
+			text-align: center;
+			margin: 135px 100px 10px 0px;		
+		button{
+			background: none;
+			border-radius: 0px;
+			color: white;
+		}
+	}
+	}
+	div.hixchieg_1{
+		background-image: url(../images/check_it_out2.png);
+		background-repeat: no-repeat;
+		height: 220px;
+		margin:0px 7px;
+		width: 32%;
+		.button2{
+			text-align: center;
+			  margin: 134px 225px 0px -6px;
+		button{
+			color:$hover-color;
+			text-transform: uppercase;
+			font-weight: bold;
+			border:none;
+			background-color:#E8E8EA;
+			font-size: 23px;
+			padding: 14px;
+			letter-spacing: -1px;
+			padding-bottom: 2px;
+		}
+	}
+	}
+	div.by_theme{
+		background-image: url(../images/check_it_out3.png);
+		background-repeat: no-repeat;
+		height: 220px;
+		margin:0px 7px;
+		width: 32%;
+		.button3{
+			text-align: center;
+			margin:135px 0px 0px 0px;
+		button{
+			background: none;
+			border-radius: 0px;
+			color: white;
+			}
+		}
+	}
+}
